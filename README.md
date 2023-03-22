@@ -25,4 +25,4 @@ Create Weather API Key from website First (https://www.weatherapi.com/).
 
 ## Installation
 1. Clone the app using Git or import it to Android Studio.
-2. Put API_KEY = Your api key in Constants.
+2. Put API_KEY = "Your api key" in Constants.
